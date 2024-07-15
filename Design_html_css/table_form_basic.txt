@@ -1,0 +1,51 @@
+
+--------------------------------------------------------- Table Form Basic --------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+
+@page "/department"
+@inject IDepartmentRepository _departmentRepository
+
+ <div class="row mt-4">
+     <div class="col-6">
+         <h4 class="card-title text-primary">Department List</h4>
+     </div>
+     <div class="col-4 offset-2">
+         <a href="department/create" class="btn btn-primary form-control">Add New Department</a>
+     </div>
+
+     <div class="col-12 p-3"> 
+         @if(Departments.Any())
+        {
+          <table class="table table-bordered">
+              <thead>
+                  <tr>
+                      <th>Department</th>
+                      <th>Code</th>
+                      <th>Action</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  @foreach(var objDept in Departments)
+                    {
+                        <tr>
+                            <td>
+                                @objDept.DepartmentName
+                            </td>
+                            <td>
+                                @objDept.DepartmentCode
+                            </td>
+                            <td>
+                                <NavLink href="" class="btn-primary btn">Edit</NavLink>
+                            </td>
+                        </tr>
+                    }
+              </tbody>
+          </table>  
+        }
+
+     </div>
+ </div>
+
+
+--------------------------------------------------------
+

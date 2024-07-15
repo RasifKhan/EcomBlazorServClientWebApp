@@ -1,0 +1,110 @@
+﻿@page "/reportPage"
+@inject IJSRuntime js
+
+
+
+<h1>Rdlc Report</h1>
+<input type="text" @bind="productName" placeholder="Enter Product Name" />
+
+<button id="btnGenerate" class="btn btn-primary" @onclick="OpenReport1">PDF1</button>
+<button id="btnGenerate" class="btn btn-primary" @onclick="OpenReport2">xls</button>
+<br>
+<button id="btnGenerate" class="btn btn-primary" @onclick="OpenReport3"> PDF3</button>
+<br />
+
+<br>
+<button id="btnGenerate" class="btn btn-primary" @onclick="OpenReport4">View PDF</button>
+<br />
+
+<br>
+<input type="text" @bind="fromDate" placeholder="From Date" />
+<br />
+
+<br>
+<input type="text" @bind="toDate" placeholder="To Date" />
+<br />
+
+
+
+@*<label for="fromDate">From Date:</label>
+<input type="date" id="fromDate" @bind="fromDate" />
+<br />
+
+<label for="toDate">To Date:</label>
+<input type="date" id="toDate" @bind="toDate" />
+<br />*@
+
+
+<br>
+<button id="btnGenerate" class="btn btn-primary" @onclick="OpenReport5">PDF</button>
+<br />
+
+@code {
+    private string productName;
+
+    //private DateTime? fromDate; // Assuming you have fromDate as a member variable
+    //private DateTime? toDate;
+
+    private DateTime? fromDate;
+    private DateTime? toDate;
+
+    //private string FromDateString => fromDate?.ToString("dd-MM-yyyy");
+    //private string ToDateString => toDate?.ToString("dd-MM-yyyy");
+
+    private async void OpenReport1()  
+    {
+        string url = $"http://localhost:49352/api/ReportOrderInfor/GetNewReport?reportType=1";
+        if (!string.IsNullOrEmpty(productName))
+        {
+            url += $"&productName={productName}";
+        }
+        await js.InvokeVoidAsync("open", url, "_blank");
+    }
+
+
+
+
+    private async void OpenReport2()
+    {
+        string url = $"http://localhost:49352/api/ReportOrderInfor/GetNewReport?reportType=2";
+        if (!string.IsNullOrEmpty(productName))
+        {
+            url += $"&productName={productName}";
+        }
+        await js.InvokeVoidAsync("open", url, "_blank");
+    }
+
+
+
+    private async void OpenReport3() //14253 server    //api 49352
+    {
+        await js.InvokeVoidAsync("open", $"http://localhost:49352/api/ReportOrderInfor/GetCategoryReport?reportType=1", "_blank");
+    }
+
+    private async void OpenReport4() //14253 server    //api 49352
+    {
+        await js.InvokeVoidAsync("open", $"http://localhost:49352/api/ReportOrderInfor/GetViewCatOrderReport?reportType=1", "_blank");
+    }
+
+    private async void OpenReport5()
+    {
+        string url = $"http://localhost:49352/api/ReportOrderInfor/GetViewCatOrderReport?reportType=1";
+
+        if (fromDate != null && toDate != null)
+        {
+            url += $"&fromDate={fromDate.Value.ToString("MM-dd-yyyy")}&toDate={toDate.Value.ToString("MM-dd-yyyy")}";
+        }   
+        
+        else
+        {
+         // 
+         //
+         //
+        }
+        await js.InvokeVoidAsync("open", url, "_blank");
+    }
+}
+
+
+
+    

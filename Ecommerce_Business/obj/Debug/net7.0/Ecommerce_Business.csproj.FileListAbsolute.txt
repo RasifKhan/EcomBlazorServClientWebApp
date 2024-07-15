@@ -1,0 +1,182 @@
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.deps.json
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.AssemblyReference.cache
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfoInputs.cache
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfo.cs
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CoreCompileInputs.cache
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\refint\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\ref\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CopyComplete
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.deps.json
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.AssemblyReference.cache
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfoInputs.cache
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfo.cs
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CoreCompileInputs.cache
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CopyComplete
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\obj\Debug\net7.0\refint\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\Ecommerce_WebApplication1\Ecommerce_Business\obj\Debug\net7.0\ref\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.deps.json
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.AssemblyReference.cache
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfoInputs.cache
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfo.cs
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CoreCompileInputs.cache
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CopyComplete
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\obj\Debug\net7.0\refint\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\Ecommerce_WebApplication2\Ecommerce_Business\obj\Debug\net7.0\ref\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.deps.json
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.AssemblyReference.cache
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfoInputs.cache
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfo.cs
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CoreCompileInputs.cache
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CopyComplete
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\obj\Debug\net7.0\refint\Ecommerce_Business.dll
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\Ecommerce_WebApplication3\Ecommerce_Business\obj\Debug\net7.0\ref\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.deps.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Common.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.AssemblyReference.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfoInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CoreCompileInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CopyComplete
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\obj\Debug\net7.0\refint\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\Ecommerce_Business\obj\Debug\net7.0\ref\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.deps.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Common.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Common.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.AssemblyReference.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfoInputs.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CoreCompileInputs.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CopyComplete
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\refint\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\ref\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.deps.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Common.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.AssemblyReference.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfoInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CoreCompileInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CopyComplete
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\refint\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\Ecommerce_Business\obj\Debug\net7.0\ref\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.deps.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Common.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.AssemblyReference.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfoInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CoreCompileInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CopyComplete
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\refint\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\Ecommerce_Business\obj\Debug\net7.0\ref\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.deps.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Common.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.AssemblyReference.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfoInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CoreCompileInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CopyComplete
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\refint\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\ref\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.deps.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Common.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Common.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.AssemblyReference.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfoInputs.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.AssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CoreCompileInputs.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.csproj.CopyComplete
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\refint\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\Ecommerce_Business\obj\Debug\net7.0\ref\Ecommerce_Business.dll

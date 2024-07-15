@@ -1,0 +1,10 @@
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ReportWindowsFormsApp\bin\Debug\ReportWindowsFormsApp.exe.config
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ReportWindowsFormsApp\bin\Debug\ReportWindowsFormsApp.exe
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ReportWindowsFormsApp\bin\Debug\ReportWindowsFormsApp.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ReportWindowsFormsApp\obj\Debug\ReportWindowsFormsApp.csproj.AssemblyReference.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ReportWindowsFormsApp\obj\Debug\ReportWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ReportWindowsFormsApp\obj\Debug\ReportWindowsFormsApp.Properties.Resources.resources
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ReportWindowsFormsApp\obj\Debug\ReportWindowsFormsApp.csproj.GenerateResource.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ReportWindowsFormsApp\obj\Debug\ReportWindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ReportWindowsFormsApp\obj\Debug\ReportWindowsFormsApp.exe
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ReportWindowsFormsApp\obj\Debug\ReportWindowsFormsApp.pdb

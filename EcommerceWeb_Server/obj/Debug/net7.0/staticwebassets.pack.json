@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EcommerceWeb_Server.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EcommerceWeb_Server.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\images\\Default_image.png",
+      "PackagePath": "staticwebassets\\images\\Default_image.png"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\images\\Glass spheres.gif",
+      "PackagePath": "staticwebassets\\images\\Glass spheres.gif"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\images\\product\\2eccc426-665c-4456-a074-b8d2d9f1a87f.png",
+      "PackagePath": "staticwebassets\\images\\product\\2eccc426-665c-4456-a074-b8d2d9f1a87f.png"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\images\\product\\4953900a-87a2-435d-9eab-ccda6f97c531.png",
+      "PackagePath": "staticwebassets\\images\\product\\4953900a-87a2-435d-9eab-ccda6f97c531.png"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\images\\product\\679fb117-bf27-446e-9296-1c758fd7bb46.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\679fb117-bf27-446e-9296-1c758fd7bb46.jpg"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\images\\product\\b1c8b458-5be6-4f6c-8ee2-0ff3792901a8.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b1c8b458-5be6-4f6c-8ee2-0ff3792901a8.jpg"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\images\\product\\c9eba812-18b7-483f-b378-7373acd6e1be.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c9eba812-18b7-483f-b378-7373acd6e1be.jpg"
+    },
+    {
+      "Id": "E:\\Rough\\EcommerceWebApplication\\Ecommerce_WebApplication - Copy2\\EcommerceWeb_Server\\wwwroot\\js\\common.js",
+      "PackagePath": "staticwebassets\\js\\common.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EcommerceWeb_Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EcommerceWeb_Server.props",
+      "PackagePath": "build\\EcommerceWeb_Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerceWeb_Server.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceWeb_Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EcommerceWeb_Server.props",
+      "PackagePath": "buildTransitive\\EcommerceWeb_Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

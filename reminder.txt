@@ -1,0 +1,51 @@
+1..rdlc report done pdf,excell with parameter ..
+
+removed "ReportViewerCore.NETCore" this package..
+
+2.This is very importtant project cause here we run report in 2 ways using repository pattern and without using repository pattern
+
+3.Create another repor .....1st add view in data base then scaffold the view in the blazore project.
+
+4.we added fromdate and todate parameter for view report ...
+
+5. retrieving view report by using LINQ and SQL...
+
+6.and tested full project.evry functionalities work smoothly....
+
+7.Delete Category by using store Procedure
+
+note for scaffold
+
+------------------------------------------------
+----------------------------------------------------------------
+scaffold command for adding view or table ......
+----------------------------------------------------------------
+for new 
+Scaffold-DbContext "Server=.;Database=BlazorBoot_EcommerceDb;Trusted_Connection=True;Encrypt=false;TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data\Scaffolded -Context ApplicationDbContext -Tables VW_CategoryProduct
+
+
+Scaffold-DbContext "Server=.;Database=BlazorBoot_EcommerceDb;Trusted_Connection=True;Encrypt=false;TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data\Scaffolded -Context ApplicationDbContext -Tables VW_CategoryProduct
+------------------------------
+
+Note from chat gpt
+
+Scaffold-DbContext "Server=.;Database=BlazorBoot_EcommerceDb;Trusted_Connection=True;Encrypt=false;TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data -Context ApplicationDbContext -Tables VW_CategoryProduct -Force  here this is a problem .this commang replaces the previous code of the ApplicationDbContext class. 
+ChatGPT
+If you're experiencing issues where running the Scaffold-DbContext command with the -Force option is replacing your existing ApplicationDbContext code, there are a couple of potential reasons for this behavior:
+
+Existing DbContext File:
+Make sure there isn't already an existing ApplicationDbContext.cs file in the specified output directory (Data). If there is, the -Force flag will overwrite the existing file.
+
+If you want to keep your existing code and only add the DbSet for the view, consider running the command without the -Force option in a separate directory and then copy the generated code manually.
+
+File Content Conflicts:
+If the content of your existing ApplicationDbContext.cs file and the generated one conflict, you might encounter issues. Ensure that the generated code and your existing code are compatible. If there are major conflicts, you may need to manually merge the changes.
+
+Here's an alternative approach:
+
+bash
+Copy code
+Scaffold-DbContext "Server=.;Database=BlazorBoot_EcommerceDb;Trusted_Connection=True;Encrypt=false;TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data\Scaffolded -Context ApplicationDbContext -Tables VW_CategoryProduct -Force
+This command uses a subdirectory (Scaffolded) within the Data directory to store the generated code. After running the command, you can manually inspect and merge the changes from the generated file (Data\Scaffolded\ApplicationDbContext.cs) into your existing ApplicationDbContext.cs file.
+
+Remember to adjust namespaces and class names as needed during the merge process.

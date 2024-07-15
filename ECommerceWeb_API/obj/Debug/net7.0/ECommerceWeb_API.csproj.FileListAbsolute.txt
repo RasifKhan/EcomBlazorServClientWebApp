@@ -1,0 +1,744 @@
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\appsettings.Development.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\appsettings.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.staticwebassets.runtime.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.exe
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.deps.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.runtimeconfig.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\AutoMapper.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Azure.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Azure.Identity.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\MailKit.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\MimeKit.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Stripe.net.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Common.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.AssemblyReference.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.AssemblyInfoInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.AssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.CoreCompileInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.ECommerceWeb_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.build.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.build.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.development.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\scopedcss\bundle\ECommerceWeb_API.styles.css
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.CopyComplete
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\refint\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.genruntimeconfig.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication55\ECommerceWeb_API\obj\Debug\net7.0\ref\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\appsettings.Development.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\appsettings.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.staticwebassets.runtime.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.exe
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.deps.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.runtimeconfig.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\AutoMapper.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Azure.Core.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Azure.Identity.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\MailKit.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\MimeKit.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Stripe.net.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Common.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Common.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.AssemblyReference.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.AssemblyInfoInputs.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.AssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.CoreCompileInputs.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.ECommerceWeb_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.build.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.build.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.development.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\scopedcss\bundle\ECommerceWeb_API.styles.css
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.CopyComplete
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\refint\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.genruntimeconfig.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ref\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\appsettings.Development.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\appsettings.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.staticwebassets.runtime.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.exe
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.deps.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.runtimeconfig.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\AspNetCore.Reporting.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\AspNetCore.ReportingServices.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\AutoMapper.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Azure.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Azure.Identity.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\MailKit.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\MimeKit.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.ReportViewer.Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.ReportViewer.DataVisualization.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.ReportViewer.NETCore.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Stripe.net.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.CodeDom.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.IO.Packaging.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.Resources.Extensions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.Http.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.Primitives.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Common.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.AssemblyReference.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.AssemblyInfoInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.AssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.CoreCompileInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.ECommerceWeb_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.build.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.build.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.development.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\scopedcss\bundle\ECommerceWeb_API.styles.css
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.CopyComplete
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\refint\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.genruntimeconfig.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication\ECommerceWeb_API\obj\Debug\net7.0\ref\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\appsettings.Development.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\appsettings.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.staticwebassets.runtime.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.exe
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.deps.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.runtimeconfig.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\AspNetCore.Reporting.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\AspNetCore.ReportingServices.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\AutoMapper.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Azure.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Azure.Identity.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\FluentAssertions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\MailKit.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\MimeKit.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Stripe.net.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.CodeDom.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.Http.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.Primitives.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Common.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.AssemblyReference.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.AssemblyInfoInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.AssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.CoreCompileInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.ECommerceWeb_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.build.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.build.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.development.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\scopedcss\bundle\ECommerceWeb_API.styles.css
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.CopyComplete
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\refint\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.genruntimeconfig.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\obj\Debug\net7.0\ref\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.XtraCharts.v22.1.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Charts.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.CodeParser.v22.1.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Data.v22.1.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.DataAccess.v22.1.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.DataVisualization.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Drawing.v22.1.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.XtraGauges.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Office.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Pdf.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Pdf.v22.1.Drawing.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.PivotGrid.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Printing.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.XtraReports.v22.1.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.RichEdit.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.RichEdit.v22.1.Export.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Sparkline.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Xpo.v22.1.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.NetTcp.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.Security.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy\ECommerceWeb_API\bin\Debug\net7.0\libman.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\appsettings.Development.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\appsettings.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\libman.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.staticwebassets.runtime.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.exe
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.deps.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.runtimeconfig.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\AspNetCore.Reporting.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\AspNetCore.ReportingServices.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\AutoMapper.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Azure.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Azure.Identity.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.XtraCharts.v22.1.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Charts.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.CodeParser.v22.1.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Data.v22.1.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.DataAccess.v22.1.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.DataVisualization.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Drawing.v22.1.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.XtraGauges.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Office.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Pdf.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Pdf.v22.1.Drawing.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.PivotGrid.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Printing.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.XtraReports.v22.1.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.RichEdit.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.RichEdit.v22.1.Export.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Sparkline.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Xpo.v22.1.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\FluentAssertions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\MailKit.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\MimeKit.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Stripe.net.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.CodeDom.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.Http.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.NetTcp.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.Primitives.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.Security.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Common.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Common.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.AssemblyReference.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.AssemblyInfoInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.AssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.CoreCompileInputs.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.ECommerceWeb_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.build.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.build.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.development.json
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\scopedcss\bundle\ECommerceWeb_API.styles.css
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.CopyComplete
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\refint\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.genruntimeconfig.cache
+E:\Rough\EcommerceWebApplication\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ref\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\appsettings.Development.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\appsettings.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\libman.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.staticwebassets.runtime.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.exe
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.deps.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.runtimeconfig.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\ECommerceWeb_API.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\AspNetCore.Reporting.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\AspNetCore.ReportingServices.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\AutoMapper.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Azure.Core.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Azure.Identity.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.XtraCharts.v22.1.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Charts.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.CodeParser.v22.1.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Data.v22.1.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.DataAccess.v22.1.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.DataVisualization.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Drawing.v22.1.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.XtraGauges.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Office.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Pdf.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Pdf.v22.1.Drawing.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.PivotGrid.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Printing.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.XtraReports.v22.1.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.RichEdit.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.RichEdit.v22.1.Export.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Sparkline.v22.1.Core.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\DevExpress.Xpo.v22.1.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\FluentAssertions.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\MailKit.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\MimeKit.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Stripe.net.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.CodeDom.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.Http.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.NetTcp.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.Primitives.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.ServiceModel.Security.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Business.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Common.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_DataAccess.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Model.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Business.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_DataAccess.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Common.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\bin\Debug\net7.0\Ecommerce_Model.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.AssemblyReference.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.AssemblyInfoInputs.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.AssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.CoreCompileInputs.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.ECommerceWeb_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.build.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ECommerceWeb_API.props
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.build.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\staticwebassets.development.json
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\scopedcss\bundle\ECommerceWeb_API.styles.css
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.csproj.CopyComplete
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\refint\ECommerceWeb_API.dll
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.pdb
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ECommerceWeb_API.genruntimeconfig.cache
+E:\Rough\EcommerceWebApplication\BackUp\Ecommerce_WebApplication - Copy2\ECommerceWeb_API\obj\Debug\net7.0\ref\ECommerceWeb_API.dll

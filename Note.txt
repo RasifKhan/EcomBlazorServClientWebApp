@@ -1,0 +1,19 @@
+--------------------------------
+Server Projcet Admin User
+--------------------------
+admin : ecommerceasiantech@gmail.com
+pw: 1234@Atl
+
+same password for all
+--------------------------
+client Project customer user .... you can create a user id with password then then you can login and place order.
+Remember login with valid email. Cause later you will get an order confirmation notification to the provided email id.
+
+fill up the card information :
+-------------------------------
+
+card number: 4242 4242 4242 4242
+
+this card number is a demo card provided by Stripe.
+and give other information as your wise.
+----------------------------------------
